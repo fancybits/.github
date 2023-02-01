@@ -1,4 +1,4 @@
-## Hi there 👋, We're Fancy Bits, we make [Channels](https://getchannels.com).
+## Hi there 👋, we're Fancy Bits, we make [Channels](https://getchannels.com).
 
 Channels is a media system designed to let you watch media the way you want. Watch and record live TV, import your own media, 
 create your own live linear TV channels, stream everything while away from home, and more!
